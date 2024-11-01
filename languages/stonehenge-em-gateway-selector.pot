@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Events Manager Pro - Gateway Selector\n"
+"POT-Creation-Date: 2019-03-22 14:21+0100\n"
+"PO-Revision-Date: 2019-03-22 14:21+0100\n"
+"Last-Translator: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"Language-Team: Patrick Buntsma <info@stonehengecreations.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: stonehenge-em-gateway-selector.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: stonehenge-em-gateway-selector.php:23
+msgid "This add-on needs Events Manager Pro to be installed and activated."
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:49
+msgid "Payment Options"
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:51
+msgid ""
+"Please select which payment method(s) you would like to be available for "
+"this event."
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:56
+msgid "No Payment Gateways activated."
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:87
+msgid "You need to select at least one Payment Gateway."
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:155
+msgid "Plug-in Support"
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:156
+msgid "WordPress Profile"
+msgstr ""
+
+#: stonehenge-em-gateway-selector.php:157
+msgid "Donate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Events Manager Pro - Gateway Selector"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/stonehenge-em-gateway-selector/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily set or unset your payment gateway(s) per individual single event in "
+"Event Manager Pro with a simple checkbox!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stonehenge Creations"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.stonehengecreations.nl/"
+msgstr ""
